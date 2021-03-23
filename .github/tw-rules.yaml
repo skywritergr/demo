@@ -1,2 +1,2 @@
 minValidApprovers: 1
-alwaysRequiresJiraTicket: true
+alwaysRequiresJiraTicket: false
