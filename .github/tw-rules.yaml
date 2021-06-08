@@ -1,3 +1,4 @@
 allowOtherLabels: false
+titlePattern: Bug.*
 extraMandatoryLabelGroups:
   - ["bug", "cosa"]
