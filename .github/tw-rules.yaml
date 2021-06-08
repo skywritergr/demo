@@ -1,4 +1,4 @@
 allowOtherLabels: false
-titlePattern: Bug.*
+titlePattern: [FIX|TASK]: .*
 extraMandatoryLabelGroups:
   - ["bug", "cosa"]
