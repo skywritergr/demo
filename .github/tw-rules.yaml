@@ -1,4 +1,6 @@
 allowOtherLabels: false
 titlePattern: "[FIX|TASK]: .*"
+extraMandatoryCheckListSections:
+  - Context
 extraMandatoryLabelGroups:
   - ["bug", "cosa"]
