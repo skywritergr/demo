@@ -1,6 +1,6 @@
 allowOtherLabels: false
 allowMultipleLabelsPerGroup: true
-titlePattern: "[FIX|TASK]: .*"
+titlePattern: ".*"
 extraMandatoryCheckListSections:
   - Context
 extraMandatoryLabelGroups:
