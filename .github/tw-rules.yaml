@@ -5,3 +5,4 @@ extraMandatoryCheckListSections:
   - Context
 extraMandatoryLabelGroups:
   - ["bug", "cosa"]
+semanticTitle: true
