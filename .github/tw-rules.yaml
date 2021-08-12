@@ -1,3 +1,4 @@
+runChecks: true
 allowOtherLabels: false
 allowMultipleLabelsPerGroup: true
 titlePattern: ".*"
