@@ -1,0 +1,9 @@
+runChecks: true
+allowOtherLabels: false
+allowMultipleLabelsPerGroup: true
+titlePattern: ".*"
+extraMandatoryCheckListSections:
+  - Context
+extraMandatoryLabelGroups:
+  - ["bug", "cosa"]
+semanticTitle: true
